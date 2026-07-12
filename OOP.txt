@@ -1,0 +1,13 @@
+#what is an object? an object is something you can describe (ex: a book, ac car, a dog, a movie, a astudent, a customer, a bank account)
+an object has data(ex:title, author, published date, pages,availabilty), 
+an object can also have actions. 
+#what is an action?actions:display, borrow book,return a book,check availabilty
+
+model:
+object:bookdata:attributes
+action= behaviors=methods:display details
+To creat objects we need what we call classes
+A class is a blueprint or a plan for creating objects
+The class will allow us to create a book object: meaning we will have a book class
+From the book class we will have --->book1, book2, book3
+#what is a methods 
